@@ -74,7 +74,7 @@
  * สั่ง Run โปรแกรม เพื่อดูผลการทดลอง 
 
 บันทึกผลที่ได้จากการรันโปรแกรม
-![]()
+![](https://github.com/Tooktasupaporn/LAB-04/blob/master/imgs/project4-2.PNG?raw=true)
 <hr>
 <hr>
 <hr>
@@ -86,6 +86,7 @@
 ![](https://github.com/Desktop-Programming-Lab-2559/LAB-04/blob/master/imgs/P6.png)
 
  * สั่ง Run โปรแกรมและบันทึกผลที่ได้จากการรันโปรแกรม
+ ![]()
 <hr>
 <hr>
 <hr>
