@@ -45,7 +45,7 @@
 ![](https://github.com/Desktop-Programming-Lab-2559/LAB-04/blob/master/imgs/P4.png)
 
  * สั่ง Run โปรแกรมและบันทึกผลที่ได้จากการรันโปรแกรม
-![]()
+![](https://github.com/Tooktasupaporn/LAB-04/blob/master/imgs/project4.PNG?raw=true)
  * การรันแล้วทำให้หน้าจอ console ยังคงแสดงผลค้างอยู่นั้น ให้เลือกเมนู Debug -> Start Without Debugging (Ctrl+F5) มิฉะนั้น หน้าจอ console จะหายไปอย่างรวดเร็ว
 <hr>
 <hr>
@@ -57,6 +57,7 @@
 ### คำถาม 4.1 
 
 ผลที่ได้จากการทดลอง เป็นอย่างที่นักศึกษาคิดหรือไม่ อย่างไร  จงอธิบาย
+-เป็นตามที่คิด เพราะจะออกเป็นคำว่า world กับคำว่า Hello 
 <hr>
 <hr>
 <hr>
@@ -73,6 +74,7 @@
  * สั่ง Run โปรแกรม เพื่อดูผลการทดลอง 
 
 บันทึกผลที่ได้จากการรันโปรแกรม
+![]()
 <hr>
 <hr>
 <hr>
